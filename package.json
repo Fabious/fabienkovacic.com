@@ -13,7 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "lint": "eslint src"
+    "lint": "eslint --fix src"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
